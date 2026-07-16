@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-📧 **Email:** hechao25@mails.ucas.ac.cn
+~~📧 **Email:** hechao25@mails.ucas.ac.cn~~
+
 📧 **Email:** hechao@semi.ac.cn
 
 <!--
