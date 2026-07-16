@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 📧 **Email:** hechao25@mails.ucas.ac.cn
+📧 **Email:** hechao@semi.ac.cn
 
 <!--
 **ChaoHHHH/ChaoHHHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
